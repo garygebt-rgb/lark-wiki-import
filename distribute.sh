@@ -9,7 +9,7 @@
 set -e
 
 SKILL_DIR="${HOME}/.claude/skills/lark-wiki-import"
-REPO_URL="https://github.com/你的用户名/lark-wiki-import"
+REPO_URL="https://github.com/garygebt-rgb/lark-wiki-import"
 BRANCH="main"
 
 echo "=========================================="
